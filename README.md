@@ -1,4 +1,3 @@
-# OPC-Demo-Docusaurus-
 # OPC-Demo-Docusaurus
 
 
