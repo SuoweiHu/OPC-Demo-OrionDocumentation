@@ -102,8 +102,20 @@ const config = {
 						title: "Docs",
 						items: [
 							{
-								label: "Tutorial",
-								to: "/docs/intro",
+								label: "Docusaurus Tutorial",
+								to: "/docs/docusaurus/intro",
+							},
+                            {
+								label: "Orion - Dashboard",
+								to: "/docs/dashboard",
+							},
+                            {
+								label: "Orion - Security",
+								to: "/docs/dashboard",
+							},
+                            {
+								label: "Orion - Setting",
+								to: "/docs/dashboard",
 							},
 						],
 					},
