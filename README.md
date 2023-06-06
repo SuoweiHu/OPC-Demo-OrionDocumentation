@@ -93,3 +93,13 @@ my-website
 - `/docusaurus.config.js` - A config file containing the site configuration. This is the equivalent of `siteConfig.js` in Docusaurus v1
 - `/package.json` - A Docusaurus website is a React app. You can install and use any npm packages you like in them
 - `/sidebars.js` - Used by the documentation to specify the order of documents in the sidebar
+
+
+## Docs-only-mode
+
+This site has turned on "docs-only-mode" which means any of the documentation under the sub-directory will be displayed at the root, for instance you have document "docs/temp/readme.md", then instead of visiting "https://www.example.com/docs/temp/title", you can visit a shortened version of url "https://www.example.com/temp/title" for a "docs-only-mode" docusaurus website.
+
+Tutorial for how to turn that on/off can be found at the following links:
+- https://docusaurus.io/docs/docs-introduction
+- https://www.youtube.com/watch?v=Rc6mdSRaikE
+
