@@ -1,6 +1,6 @@
 # @format
 
-name: NodeJS with Webpack
+name: Static Site Generation
 
 on:
     push:
@@ -28,4 +28,5 @@ jobs:
 
             - name: Building the project (npm run build)
               run: |
+                  ls -al
                   docusaurus build
