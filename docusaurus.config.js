@@ -10,6 +10,7 @@ const projectName = "OPC-Orion-Documentation"
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+    onBrokenLinks: 'log',
 	title: "Orion",
 	tagline: "Dinosaurs are cool",
 	favicon: "img/favicon.ico",
