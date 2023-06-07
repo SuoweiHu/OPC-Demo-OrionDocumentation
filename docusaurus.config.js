@@ -14,6 +14,7 @@ const config = {
 
 	// Set the production url of your site here
 	url: "https://your-docusaurus-test-site.com",
+
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: "/",
@@ -45,7 +46,7 @@ const config = {
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+						"https://github.com/SuoweiHu/OPC-Orion-Documentation/tree/main",
 				},
 				blog: false, // Optional: disable the blog plugin
 				theme: {
@@ -131,12 +132,8 @@ const config = {
 						title: "More",
 						items: [
 							{
-								label: "Blog",
-								to: "/",
-							},
-							{
 								label: "GitHub",
-								href: "https://github.com/facebook/docusaurus",
+								href: "https://github.com/SuoweiHu/OPC-Orion-Documentation",
 							},
 						],
 					},
