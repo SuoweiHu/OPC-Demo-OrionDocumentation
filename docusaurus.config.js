@@ -40,11 +40,12 @@ const config = {
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
 				docs: {
-                    routeBasePath: '/',
-                    sidebarPath: require.resolve("./sidebars.js"),
+					routeBasePath: "/",
+					sidebarPath: require.resolve("./sidebars.js"),
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl:"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					editUrl:
+						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
 				},
 				blog: false, // Optional: disable the blog plugin
 				theme: {
@@ -78,10 +79,10 @@ const config = {
 					// 	position: "left",
 					// },
 					// {
-                    //     to: "/blog",
-                    //     label: "Blog",
-                    //     position: "left"
-                    // },
+					//     to: "/blog",
+					//     label: "Blog",
+					//     position: "left"
+					// },
 					//   {
 					//     href: 'https://https://opc.com.au/',
 					//     label: 'opc.com.au',
@@ -97,19 +98,19 @@ const config = {
 						items: [
 							{
 								label: "Docusaurus Tutorial",
-								to: "/docs/docusaurus/intro",
+								to: "/docusaurus/intro",
 							},
-                            {
+							{
 								label: "Orion - Dashboard",
-								to: "/docs/dashboard",
+								to: "/",
 							},
-                            {
+							{
 								label: "Orion - Security",
-								to: "/docs/dashboard",
+								to: "/",
 							},
-                            {
+							{
 								label: "Orion - Setting",
-								to: "/docs/dashboard",
+								to: "/",
 							},
 						],
 					},
@@ -123,7 +124,7 @@ const config = {
 							{
 								label: "Discord",
 								href: "https://discordapp.com/invite/docusaurus",
-							}
+							},
 						],
 					},
 					{
@@ -131,7 +132,7 @@ const config = {
 						items: [
 							{
 								label: "Blog",
-								to: "/blog",
+								to: "/",
 							},
 							{
 								label: "GitHub",
@@ -147,6 +148,17 @@ const config = {
 				darkTheme: darkCodeTheme,
 			},
 		}),
+	plugins: [
+		[
+			// Local Search plug in: https://github.com/cmfcmf/docusaurus-search-local
+			require.resolve("@cmfcmf/docusaurus-search-local"),
+			{
+				indexDocs: true,
+				indexBlog: false,
+                language: "en"
+			},
+		],
+	],
 };
 
 module.exports = config;
