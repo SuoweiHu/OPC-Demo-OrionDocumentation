@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[19],{3185:e=>{e.exports=JSON.parse('{"title":"Dashboard","slug":"/category/dashboard","permalink":"/category/dashboard","navigation":{"previous":{"title":"Orion","permalink":"/category/orion"},"next":{"title":"Logic-Flow Chart","permalink":"/orion/Dashboard/LogicFlowChart"}}}')}}]);
