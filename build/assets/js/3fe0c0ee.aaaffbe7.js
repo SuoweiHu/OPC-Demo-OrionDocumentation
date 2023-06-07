@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[425],{8461:e=>{e.exports=JSON.parse('{"title":"Docusaurus","slug":"/category/docusaurus","permalink":"/category/docusaurus","navigation":{"previous":{"title":"Package Manager","permalink":"/introduction/composer"},"next":{"title":"Tutorial - Intro","permalink":"/docusaurus/intro"}}}')}}]);
