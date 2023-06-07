@@ -4,7 +4,9 @@ slug: /
 title: Introduction
 ---
 
-# OPC Website 1
+# OPC Website
+
+1
 
 This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.) This project manages website dependencies with [Composer](https://getcomposer.org/). It is based on the [original Drupal Composer Template](https://github.com/drupal-composer/drupal-project),
 
