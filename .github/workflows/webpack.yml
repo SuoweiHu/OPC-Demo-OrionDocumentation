@@ -23,3 +23,7 @@ jobs:
     - name: Install Dependencies (npm install)
       run: |
         npm install
+
+    - name: Building the project (npm run build)
+      run: |
+        npm run build
