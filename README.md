@@ -3,7 +3,7 @@
 [![Deploy to Github Pages](https://github.com/SuoweiHu/OPC-Orion-Documentation/actions/workflows/webpack.yml/badge.svg)](https://github.com/SuoweiHu/OPC-Orion-Documentation/actions/workflows/webpack.yml)
 
 
-## Selection Criteria
+**Selection Criteria**
 1. **No lock in contact**: not required to use any other vender services (except for source code), can host the website on varies platforms
 2. **Okay community support**: not a random personal project, or proprietary custom software with little support, has to be under maintenance within 1 year
 3. **Markdown support**: has to support markdown syntax (ideally MDX support)
