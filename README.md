@@ -95,9 +95,9 @@ my-website
 - `/sidebars.js` - Used by the documentation to specify the order of documents in the sidebar
 
 
-### Global CSS
+### Global CSS Style
 
-
+Global styling is applied at file [src/css/custom.css](./src/css/custom.css)
 
 
 ### Docs-only-mode
