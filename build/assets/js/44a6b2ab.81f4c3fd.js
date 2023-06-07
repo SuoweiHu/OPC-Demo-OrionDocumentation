@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[495],{9519:t=>{t.exports=JSON.parse('{"title":"Introduction","slug":"/category/introduction","permalink":"/OPC-Orion-Documentation/category/introduction","navigation":{"next":{"title":"Introduction","permalink":"/OPC-Orion-Documentation/"}}}')}}]);
