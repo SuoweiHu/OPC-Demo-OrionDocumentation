@@ -1,6 +1,6 @@
 # @format
 
-name: Static Site Generation
+name: Deploy (Deprecated)
 
 on:
     push:

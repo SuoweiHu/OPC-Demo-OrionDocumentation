@@ -13,16 +13,17 @@ const config = {
 	favicon: "img/favicon.ico",
 
 	// Set the production url of your site here
-	url: "https://your-docusaurus-test-site.com",
+	url: "https://SuoweiHu.github.io/OPC-Orion-Documentation",
 
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: "/",
+	baseUrl: "/OPC-Orion-Documentation/",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: "OPC.IT", // Usually your GitHub org/user name.
-	projectName: "docusaurus", // Usually your repo name.
+	organizationName: "SuoweiHu", // Usually your GitHub org/user name.
+	projectName: "OPC-Orion-Documentation", // Usually your repo name.
+    trailingSlash: false,
 
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
