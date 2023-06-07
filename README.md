@@ -20,6 +20,5 @@ Other Candidates
 - [Custom Project -1](https://github.com/floriannicolas/API-Documentation-HTML-Template)
 - [Tailwind Protocol](https://tailwindui.com/templates/protocol)
 - [FlatDoc](https://ricostacruz.com/flatdoc/#large-brief)
-- [Docusaurus.io](https://docusaurus.io/)
 - [ReadTheDocs](https://about.readthedocs.com/?ref=dotcom-homepage)
 - [Docsify](https://docsify.js.org/#/)
