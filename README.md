@@ -1,4 +1,7 @@
-# OPC-Demo-Docusaurus
+# DEPRECATED !!! [OPC-Demo-Docusaurus]
+
+
+⚠️⚠️⚠️ New link: https://github.com/OPC-IT/Documentation-Orion/actions ⚠️⚠️⚠️
 
 [![Deploy to Github Pages](https://github.com/SuoweiHu/OPC-Orion-Documentation/actions/workflows/webpack.yml/badge.svg)](https://github.com/SuoweiHu/OPC-Orion-Documentation/actions/workflows/webpack.yml)
 
